@@ -449,6 +449,14 @@ section {
   margin-bottom: 20px;
 }
 
+.projects .projects-item a{
+  color: black;
+  font-weight: bolder;
+}
+.projects .projects-item a:hover{
+  color:#149ddd;
+  text-decoration: underline;
+}
 
 .projects .projects-wrap {
   margin-bottom:100px;
