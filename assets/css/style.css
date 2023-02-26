@@ -450,12 +450,13 @@ section {
 }
 
 .projects .projects-item a{
-  color: black;
+  color:#1f5297;
   font-weight: bolder;
+  font-style: italic;
 }
 .projects .projects-item a:hover{
-  color:#149ddd;
-  text-decoration: underline;
+  color:#050d18;
+ 
 }
 
 .projects .projects-wrap {
